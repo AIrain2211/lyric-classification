@@ -1,0 +1,4 @@
+datasets==1.12.1
+Flask==2.0.3
+tqdm==4.63.0
+transformers==4.11.3
